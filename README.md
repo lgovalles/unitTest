@@ -1,8 +1,23 @@
-# unitTest
+# UnitTest
 
-## Run Test
+UnitTest is an example for running unit test
 
+## Installation
+
+```nodejs
+> npm install
+```
+
+## Usage
+
+```nodejs
 > npm run coverage
+```
 
-> Report
-> \*\* coverage/index.html
+## Reports
+
+./coverage/index.html
+
+## Contributing
+
+## License
